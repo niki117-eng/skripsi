@@ -1,0 +1,6 @@
+{
+    "require": {
+        "laravel/sanctum": "^4.0",
+        "spatie/laravel-permission": "^6.9"
+    }
+}
